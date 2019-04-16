@@ -1,2 +1,2 @@
 # HardwareInfo
-Hardware informations and datasheets for ClFbV
+Hardware informations and datasheets for VeeBor
